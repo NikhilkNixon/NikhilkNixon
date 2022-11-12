@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikhil K Nixon
-- 👀 I’m interested in Python language
+- 👀 I’m interested in Python language.
 - 🌱 I’m currently studying BTech ECE at Govt Engg College, Barton Hill, Thiruvananthapuram, Kerala, India
 - 📫 Mail ID - nikhilknixon108@gmail.com
 
